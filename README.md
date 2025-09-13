@@ -13,15 +13,27 @@ GCE A-Levels in Chemistry, Mathematics, and Physics
 **Beaconhouse School System** (2021-2023)  
 GCE O-Levels
 
-## Current Focus
-
-I am developing my understanding of core programming concepts through structured learning in C. My academic journey centers on building strong analytical abilities and exploring various domains within computer science.
-
 ## Skills in Development
 
 - C Programming Language
 - Algorithmic Thinking
 - Programming Fundamentals
+
+## Academic Objectives
+
+1. Master fundamental programming concepts in C
+2. Develop strong problem-solving abilities
+3. Explore various computer science specializations
+4. Build a portfolio of technical projects
+
+## Technical Interests
+
+- Data Science 
+- Financial Technology
+- Cybersecurity principles
+- Business Intelligence and data-driven decision making
+
+***I am committed to continuous learning and growth in the field of computer science.***
 
 ## Goals
 
